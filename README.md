@@ -1,2 +1,0 @@
-# Papa
-MakeTheWorld
